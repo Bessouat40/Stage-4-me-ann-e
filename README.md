@@ -30,4 +30,7 @@ Il nous a donc fallu deux algorithmes : un classifieur pour détecter les évèn
 
 Les résultats obtenus pendant l'entrainement des classifieurs et des régresseurs étaient satisfaisants, mais les algorithmes se généralisaient mal. Nous n'avons donc pas pu transférer ces algorithmes à nos données.
 
-## 
+## III) Présence de chants de poissons lanterne :
+
+Afin de déterminer la présence de chants (chorus) de poissons lanterne, il a fallu visualiser nos données.
+Nous n'avons finalement pas trouvé de signatures acoustiques permettant de conclure sur leur présence.
