@@ -22,3 +22,12 @@ Finalement nous obtenons ces résultats à l'aide du transfert d'apprentissage :
 
 - Résultats pour les données du troisième spécimen :
 ![screenshot1](https://github.com/Bessouat40/Stage-4eme-annee/blob/main/Capture3.PNG?raw=true)
+
+## II) Prédiction du taux de précipitation (pluie) :
+
+Pour cette partie, il a fallu d'abord détecter les évènements de pluie (une heure pendant laquelle il pleut plus de 1 millimètre), puis prédire le taux de précipitation pour ces évènements.
+Il nous a donc fallu deux algorithmes : un classifieur pour détecter les évènements, et un régresseur pour estimer le niveau de pluie.
+
+Les résultats obtenus pendant l'entrainement des classifieurs et des régresseurs étaient satisfaisants, mais les algorithmes se généralisaient mal. Nous n'avons donc pas pu transférer ces algorithmes à nos données.
+
+## 
