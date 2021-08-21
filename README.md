@@ -13,9 +13,12 @@ Il y a un premier travail sur les données qui consiste à les formatter correct
 Afin d'arriver à faire des prédictions sur nos données, la première étape était d'entrainer plusieurs modèles (un modèle de forêt d'arbres de décision et un modèle de deep learning) sur des bases de données déjà labellisées.
 
 Finalement nous obtenons ces résultats à l'aide du transfert d'apprentissage :
+
 - Résultats pour les données du premier spécimen :
 ![screenshot1](https://github.com/Bessouat40/Stage-4eme-annee/blob/main/Capture1.PNG?raw=true)
+
 - Résultats pour les données du deuxième spécimen :
 ![screenshot1](https://github.com/Bessouat40/Stage-4eme-annee/blob/main/Capture2.PNG?raw=true)
+
 - Résultats pour les données du troisième spécimen :
 ![screenshot1](https://github.com/Bessouat40/Stage-4eme-annee/blob/main/Capture3.PNG?raw=true)
