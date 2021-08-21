@@ -34,3 +34,7 @@ Les résultats obtenus pendant l'entrainement des classifieurs et des régresseu
 
 Afin de déterminer la présence de chants (chorus) de poissons lanterne, il a fallu visualiser nos données.
 Nous n'avons finalement pas trouvé de signatures acoustiques permettant de conclure sur leur présence.
+
+Toutefois, il y a eu un premier travail d'automatisation de détection de présence acoustique.
+Je me suis principalement intéressé à l'explicabilité de ce réseau de neurones.
+N'ayant pas eu assez de temps, le réseau de neurones ne fonctionnait pas correctement et donc l'explicabilité de l'algorithme ne permet pas de vérifier la pertinence du réseau de neurones.
