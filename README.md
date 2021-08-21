@@ -4,7 +4,7 @@
 
 Les données sont recueillies à l'aide d'hydrophones attachés sur des éléphants de mer.
 
-## I) Prédiction de la force du vent
+## I) Prédiction de la force du vent :
 
 A partir de ces données, il faut prédire la fort du vent à chaque heure.
 
@@ -38,3 +38,8 @@ Nous n'avons finalement pas trouvé de signatures acoustiques permettant de conc
 Toutefois, il y a eu un premier travail d'automatisation de détection de présence acoustique.
 Je me suis principalement intéressé à l'explicabilité de ce réseau de neurones.
 N'ayant pas eu assez de temps, le réseau de neurones ne fonctionnait pas correctement et donc l'explicabilité de l'algorithme ne permet pas de vérifier la pertinence du réseau de neurones.
+
+## IV) Utilisation d'une API :
+
+Durant le stage, il a fallu à de nombreuses reprises récupérer des données sur un site web.
+J'ai donc décider d'automatiser ce processus en me servant de leur API et en rajoutant du traitement de données. Ainsi, toute la chaîne de traitement a été automatisée : le programme renvoie un fichier csv.
