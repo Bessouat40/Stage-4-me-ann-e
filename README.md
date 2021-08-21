@@ -13,4 +13,4 @@ Il y a un premier travail sur les données qui consiste à les formatter correct
 Afin d'arriver à faire des prédictions sur nos données, la première étape était d'entrainer plusieurs modèles (un modèle de forêt d'arbres de décision et un modèle de deep learning) sur des bases de données déjà labellisées.
 
 Finalement nous obtenons ces résultats à l'aide du transfert d'apprentissage :
-![screenshot1](https://github.com/Bessouat40/dashboard_accidents_de_la_route/blob/main/page_1_1.PNG?raw=true)
+![screenshot1](https://github.com/Bessouat40/Stage-4eme-annee/blob/main/Capture1.PNG?raw=true)
