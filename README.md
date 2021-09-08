@@ -1,5 +1,10 @@
 # Stage-4eme-annee
 
+# Création d'une bibliothèque 
+
+Pour ce stage, j'ai écris une bibliothèque me permettant entre autre d'utiliser des fonctions qui construisent des réseaux de neurones (possibilité de modifier les paramètres). 
+J'ai ainsi pu gagner beaucoup de temps sur l'implémentation de mes solutions.
+
 # Traitement de données acoustiques passives
 
 Les données sont recueillies à l'aide d'hydrophones attachés sur des éléphants de mer.
